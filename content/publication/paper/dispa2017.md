@@ -1,9 +1,13 @@
 ---
 title: "Communication-Efficient Distributed Primal-Dual Algorithm for Saddle Point Problems"
 authors:
-- Yaodong Yu*
-- Sulin Liu*
+- Yaodong Yu
+- admin
 - Sinno Jialin Pan
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- ""
 date: "2017-08-13T00:00:00Z"
 doi: ""
 
