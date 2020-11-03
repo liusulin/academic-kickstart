@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in deep learning, probalisitic modeling and control theory.
+bio: I am interested in deep learning, probabilistic modeling and control theory.
 
 interests:
 # - Artificial Intelligence
@@ -74,6 +74,6 @@ user_groups:
 ---
   
   
-I am a PhD student at Princeton University working on machine learning, advised by [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/) and [Peter J. Ramadge](https://ee.princeton.edu/people/peter-j-ramadge/). My interests are in deep learning, probalisitic modeling and control theory. My recent research focuses on scalable and robust automatic model selection with applications to AutoML and control.  
+I am a PhD student at Princeton University working on machine learning, advised by [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/) and [Peter J. Ramadge](https://ee.princeton.edu/people/peter-j-ramadge/). My interests are in deep learning, probabilistic modeling and control theory. My recent research focuses on scalable and robust automatic model selection with applications to AutoML and control.  
   
 Previously, I worked with [Sinno Jialin Pan](https://www.ntu.edu.sg/home/sinnopan/index.html) on distrbuted (federated) multi-task learning at Nanyang Technological University in Singapore. Before that, I received a bachelor's degree in Electrical Engineering from National University of Singapore.
